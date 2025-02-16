@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 
 # Hi, I’m @DhruveshSinghOm
 
-<div align="center">
+<!--<div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=M-hell&theme=midnight-purple" alt="My Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-hell&theme=midnight-purple" alt="Top Languages" />
+</div> -->
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=M-hell&theme=midnight-purple" alt="Dhruvesh Singh Om GitHub Stats" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-hell&theme=midnight-purple" alt="Top Languages" />
 </div>
 
@@ -101,9 +105,9 @@ Here are some ideas to get you started:
 </a>
 
 
- <div align-center> 
- <img src="https://soshace.com/wp-content/uploads/2019/10/Getting-Started-with-NextJS.jpg" alt="Next.js" height="40">
- 
+ <div align="center"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" height="40">
+
  
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="Figma" height="40">
  
