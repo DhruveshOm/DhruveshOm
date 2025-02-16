@@ -108,6 +108,7 @@ Here are some ideas to get you started:
  <div align-center> 
  <img src="https://soshace.com/wp-content/uploads/2019/10/Getting-Started-with-NextJS.jpg" alt="Next.js" height="40">
 
+
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="Figma" height="40">
  
  
