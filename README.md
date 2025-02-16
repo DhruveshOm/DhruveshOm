@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **DhruveshOm/DhruveshOm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I’m @M-hell
+# Hi, I’m @DhruveshSinghOm
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=M-hell&theme=midnight-purple" alt="My Stats" />
@@ -128,6 +127,6 @@ Here are some ideas to get you started:
 
 ### 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samrat-sarkar-00534b283/)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarkarsamrat16112004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-hell)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvesh-singh-om-3ab726297/)
+[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvesh.singhom@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/M-hell)
