@@ -1,60 +1,63 @@
-# ⚡ Nexus: AI-Powered Analytics Dashboard
+<div align="center">
+  <h1>Hi there, I'm Dhruvesh Singh Om 👋</h1>
+  <h3>Full-Stack Developer | Data Science | AI Enthusiast</h3>
+  <p>Building intelligent applications and solving complex algorithmic challenges.</p>
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-> A high-performance, real-time analytics dashboard featuring generative AI insights, designed for seamless data visualization and sub-second load times.
-
----
-
-## 👁️ Visual Overview
-
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Replace+with+a+High-Quality+GIF+or+Screenshot+of+your+Dashboard)
-*Pro-tip for the actual file: Use a compressed GIF here showing the user logging in, interacting with a chart, and generating an AI insight. Show, don't just tell.*
-
----
-
-## 🎯 The Problem & The Solution
-
-**The Problem:** Traditional data dashboards are static, forcing users to manually parse through complex charts to extract actionable insights.
-**The Solution:** Nexus automatically synthesizes real-time data streams and utilizes the Gemini API to generate natural language summaries of key metrics, reducing cognitive load for the end-user.
+  <p align="center">
+    <a href="https://www.linkedin.com/in/dhruvesh-singh-om/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:dhruvesh.singhom@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## ✨ Key Features
+### 🚀 Developer Dashboard
 
-* **Real-time Data Synchronization:** Implemented WebSockets to ensure dashboard metrics reflect live database changes instantly.
-* **Agentic AI Insights:** Integrated LLMs to provide contextual summaries of data anomalies directly within the UI.
-* **Optimized Rendering:** Utilized React.memo and virtualization to smoothly render datasets exceeding 10,000+ rows without frame drops.
-* **Responsive & Accessible:** Fully responsive design built with Tailwind CSS, adhering to WCAG 2.1 accessibility standards.
+I am a 3rd-year B.Tech Computer Science & Data Science undergraduate with a relentless focus on backend architecture, the MERN stack, and generative AI. When I'm not optimizing data structures, I'm competing in hackathons or building scalable tools. 
 
----
-
-## 🏗️ System Architecture
-
-*(Hiring managers love this. It shows you think beyond just writing code.)*
-
-* **Frontend:** React.js (Context API for state management), Tailwind CSS, Recharts for data visualization.
-* **Backend:** Node.js / Express microservice architecture.
-* **Database:** Firebase for real-time data syncing and user authentication.
-* **External APIs:** Gemini API for generative data analysis.
+- 🏆 **Hackathon Competitor:** 10 Events Participated | 4 Podium Finishes
+- 💻 **Current Grind:** Mastering Advanced DSA (Java/C++) and running a strict 13-hour daily coding/fitness sprint.
+- 🎯 **Targeting:** SDE / Data Science Internships & Placements.
+- 📚 **Preparing For:** GATE 2026 & Agentic AI Hackathons.
 
 ---
 
-## 🚀 Getting Started
+### 🛠️ Tech Arsenal
 
-Follow these steps to set up the project locally. 
+**Languages:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### Prerequisites
-* Node.js (v18.0.0 or higher)
-* npm or yarn
-* API Keys for Firebase and Gemini
+**Frontend & Backend:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 
-### Installation
+**AI & Tools:**
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/nexus-dashboard.git](https://github.com/yourusername/nexus-dashboard.git)
-   cd nexus-dashboard
+---
+
+### 🚢 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🤖 Gamified AI Trivia Bot** | An interactive, state-managed trivia application featuring complex game logic and real-time user authentication. | React.js, Tailwind, Clerk |
+| **✈️ AI Travel Packing Assistant** | An intelligent utility app that generates highly contextual travel packing lists using advanced prompt engineering. | React, Gemini API |
+| **🛒 Scalable Marketplace Clone** | A high-performance OLX clone featuring full CRUD operations, image handling, and real-time data synchronization. | React, Firebase |
+
+---
+
+### ⚡ GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruveshOm&show_icons=true&theme=radium&hide_border=true" alt="Dhruvesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruveshOm&theme=radium&hide_border=true" alt="Dhruvesh's GitHub Streak" width="48%" />
+</div>
