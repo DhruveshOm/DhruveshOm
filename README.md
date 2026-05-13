@@ -40,8 +40,9 @@ I am a 3rd-year B.Tech Computer Science & Data Science undergraduate with a rele
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 
 **AI & Tools:**
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### ⚡ GitHub Analytics
+[![Dhruvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruveshOm&show_icons=true&theme=radium&hide_border=true)](https://github.com/DhruveshOm)
+[![Dhruvesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruveshOm&theme=radium&hide_border=true)](https://github.com/DhruveshOm)
 
 ---
 
