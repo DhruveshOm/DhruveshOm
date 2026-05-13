@@ -15,7 +15,7 @@
   <a href="mailto:dhruvesh.singhom@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <a href="https://leetcode.com/u/dhruvesh1245/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
@@ -35,8 +35,7 @@ I'm a backend-focused developer with a passion for generative AI and scalable sy
 - 🏆 **Hackathons:** 10 participated · **4 podium finishes**
 - 💻 **Daily grind:** 3 DSA problems/day · targeting **500+ LeetCode**
 - 🎯 **Open to:** SDE / Data Science internships & placements
-- 📚 **Preparing for:** GATE 2026 & Agentic AI hackathons
-- 🌱 **Currently mastering:** Advanced DSA (Java / C++) + Agentic AI
+- 🌱 **Currently mastering:** DSA (Java ) + Backend Development
 
 </td>
 <td align="center">
@@ -94,22 +93,28 @@ I'm a backend-focused developer with a passion for generative AI and scalable sy
   <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> **Setup:** Add the [platane/snk](https://github.com/Platane/snk) GitHub Action to auto-generate this snake from your contribution graph.
+> **Setup:**
+> uses: Platane/snk@v3
+  with:github_user_name: ${{ https://github.com/DhruveshOm/}}
+> outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
 ---
 
 ### ⚡ LeetCode Progress
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira_Code&ext=heatmap" />
+  <img src="https://leetcode.com/u/dhruvesh1245/?theme=dark&font=Fira_Code&ext=heatmap" />
 </div>
 
 | Difficulty | Solved | Target |
 | :--- | :---: | :---: |
-| 🟢 Easy | 87 | 150 |
-| 🟡 Medium | 43 | 250 |
-| 🔴 Hard | 9 | 50+ |
-| **Total** | **139** | **500+** |
+| 🟢 Easy | 49 | 150 |
+| 🟡 Medium | 35 | 250 |
+| 🔴 Hard | 10 | 50+ |
+| **Total** | **94** | **500+** |
 
 ---
 
@@ -123,12 +128,11 @@ I'm a backend-focused developer with a passion for generative AI and scalable sy
 
 ---
 
-### 🎯 2025 Goals
+### 🎯 2026 Goals
 
 - [ ] Solve **500+ LeetCode problems** (currently ~139)
-- [ ] Secure a **SDE / Data Science internship**
+- [ ] Secure a **SDE / Data Science / Backend internship**
 - [ ] Ship **2 more AI-powered projects**
-- [ ] Clear **GATE 2026** (CS/IT paper)
 - [ ] Win at least **2 more hackathons**
 
 ---
