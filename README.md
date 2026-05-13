@@ -1,136 +1,60 @@
+# ⚡ Nexus: AI-Powered Analytics Dashboard
 
-<!--
-**DhruveshOm/DhruveshOm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi, I’m @DhruveshSinghOm
-
-<!--<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=DhruveshOm&theme=midnight-purple" alt="My Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruveshOm&theme=midnight-purple" alt="Top Languages" />
-</div> -->
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=DhruveshOm&theme=midnight-purple" alt="Dhruvesh Singh Om GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruveshOm&theme=midnight-purple" alt="Top Languages" />
-</div>
-
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruveshOm&theme=vision-friendly-dark" alt="DhruveshOm's GitHub Streak" />
-</div>
-
-<div align="center">
- 😍 Total Views on Profile:<br><br> 
- <img src="https://profile-counter.glitch.me/DhruveshOm/count.svg" alt="Visitor Count" />
-</div>
+> A high-performance, real-time analytics dashboard featuring generative AI insights, designed for seamless data visualization and sub-second load times.
 
 ---
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+## 👁️ Visual Overview
 
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=python&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
-</a>
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=c&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg">
-</a>
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=cpp&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg">
-</a>
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=java&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
-</a>
- 
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=sqlite&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg">
-</a>
- 
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=html&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
-</a>
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=css&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
-</a>
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=javascript&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
-</a>
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=bootstrap&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg">
-</a>
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=tailwind&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg">
-</a>
- 
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=bash&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg">
-</a>
- 
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=express&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg">
-</a>
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=mongodb&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg">
-</a>
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=mysql&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
-</a>
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=nodejs&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
-</a>
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=postman&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg">
-</a>
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=postgresql&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg">
-</a>
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=reactjs&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
-</a>
- 
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=git&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
-</a>
-<a href="https://github.com/DhruveshOm?tab=repositories&q=&type=&language=github&sort=">
- <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
-</a>
+![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Replace+with+a+High-Quality+GIF+or+Screenshot+of+your+Dashboard)
+*Pro-tip for the actual file: Use a compressed GIF here showing the user logging in, interacting with a chart, and generating an AI insight. Show, don't just tell.*
 
+---
 
- <div align-center> 
- <img src="https://soshace.com/wp-content/uploads/2019/10/Getting-Started-with-NextJS.jpg" alt="Next.js" height="40">
+## 🎯 The Problem & The Solution
 
+**The Problem:** Traditional data dashboards are static, forcing users to manually parse through complex charts to extract actionable insights.
+**The Solution:** Nexus automatically synthesizes real-time data streams and utilizes the Gemini API to generate natural language summaries of key metrics, reducing cognitive load for the end-user.
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="Figma" height="40">
- 
- 
- <img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="Netlify" height="40">
- 
- 
- <img src="https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg" alt="Vercel" height="40">
- 
- 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40">
- 
-</div>
+---
 
+## ✨ Key Features
 
+* **Real-time Data Synchronization:** Implemented WebSockets to ensure dashboard metrics reflect live database changes instantly.
+* **Agentic AI Insights:** Integrated LLMs to provide contextual summaries of data anomalies directly within the UI.
+* **Optimized Rendering:** Utilized React.memo and virtualization to smoothly render datasets exceeding 10,000+ rows without frame drops.
+* **Responsive & Accessible:** Fully responsive design built with Tailwind CSS, adhering to WCAG 2.1 accessibility standards.
 
+---
 
- ### 🏆 My trophies
+## 🏗️ System Architecture
 
-<img height="180" src="https://github-profile-trophy.vercel.app/?username=DhruveshOm&column=8&theme=algolia&no-frame=true"/>
+*(Hiring managers love this. It shows you think beyond just writing code.)*
 
-### 🤝 Connect with me
+* **Frontend:** React.js (Context API for state management), Tailwind CSS, Recharts for data visualization.
+* **Backend:** Node.js / Express microservice architecture.
+* **Database:** Firebase for real-time data syncing and user authentication.
+* **External APIs:** Gemini API for generative data analysis.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvesh-singh-om-3ab726297/)
-[![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvesh.singhom@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DhruveshOm)
+---
+
+## 🚀 Getting Started
+
+Follow these steps to set up the project locally. 
+
+### Prerequisites
+* Node.js (v18.0.0 or higher)
+* npm or yarn
+* API Keys for Firebase and Gemini
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/yourusername/nexus-dashboard.git](https://github.com/yourusername/nexus-dashboard.git)
+   cd nexus-dashboard
