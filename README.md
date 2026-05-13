@@ -77,12 +77,12 @@ I'm a backend-focused developer with a passion for generative AI and scalable sy
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DhruveshOm&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruveshOm&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=DhruveshOm&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
@@ -90,12 +90,12 @@ I'm a backend-focused developer with a passion for generative AI and scalable sy
 ### 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 > **Setup:**
 > uses: Platane/snk@v3
-  with:github_user_name: ${{ https://github.com/DhruveshOm/}}
+  with:DhruveshOm: ${{ https://github.com/DhruveshOm/}}
 > outputs: |
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
