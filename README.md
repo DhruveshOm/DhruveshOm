@@ -54,7 +54,10 @@ I am a 3rd-year B.Tech Computer Science & Data Science undergraduate with a rele
 
 ---
 
-### ⚡ GitHub Analytics
+### ⚡ GitHub Activity Highlights
 
-[![Dhruvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruveshOm&show_icons=true&theme=radium&hide_border=true)](https://github.com/DhruveshOm)
-[![Dhruvesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruveshOm&theme=radium&hide_border=true)](https://github.com/DhruveshOm)
+<p align="center">
+  <img src="https://img.shields.io/badge/Top_Languages-Java_%7C_C++_%7C_JavaScript-blue?style=for-the-badge" alt="Languages" />
+  <img src="https://img.shields.io/badge/Focus-Backend_&_AI_Integration-8E75B2?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Commits-Active_Daily-43853D?style=for-the-badge" alt="Commits" />
+</p>
