@@ -89,22 +89,14 @@ I'm a **backend-focused full-stack developer** passionate about generative AI an
 
 ---
 
-## 🚢 Featured Projects
-
-### 🤖 Gamified AI Trivia Bot
-> State-managed trivia app with complex game logic, scoring system, and real-time user authentication
-
-**Stack:** `React` `Tailwind CSS` `Clerk`
-&nbsp;·&nbsp; [▶ Live Demo](#) &nbsp;·&nbsp; [📂 Source Code](#)
-
----
-
-### ✈️ AI Travel Packing Assistant
-> Context-aware packing list generator using advanced prompt engineering with the Gemini API
-
-**Stack:** `React` `Gemini API` `Tailwind CSS`
-&nbsp;·&nbsp; [▶ Live Demo](#) &nbsp;·&nbsp; [📂 Source Code](#)
-
+### 🚢 Featured Projects
+ 
+| Project | Description | Stack | Demo |
+| :--- | :--- | :--- | :---: |
+| **🤖 Gamified AI Trivia Bot** | State-managed trivia app with complex game logic, scoring system, and real-time user auth | React · Tailwind · Clerk | [▶ Live](#) |
+| **✈️ AI Travel Packing Assistant** | Context-aware packing list generator using advanced prompt engineering with Gemini | React · Gemini API | [▶ Live](#) |
+| **🛒 Scalable Marketplace Clone** | High-performance OLX clone with full CRUD, image handling, and real-time data sync | React · Firebase | [▶ Live](#) |
+ 
 ---
 
 ### 🛒 Scalable Marketplace Clone
@@ -128,7 +120,7 @@ I'm a **backend-focused full-stack developer** passionate about generative AI an
 ## 🐍 Contribution Activity
 
 
-<img src="https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" /> -->
 <!-- dark mode snake (recommended) -->
 
 ![snake dark](https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/github-snake-dark.svg)
