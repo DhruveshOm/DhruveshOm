@@ -130,32 +130,14 @@ I'm a **backend-focused full-stack developer** passionate about generative AI an
 <div align="center">
   <img src="https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </div>
+<!-- light mode snake -->
+![snake](https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/github-snake.svg)
 
-> **To enable the snake animation**, create `.github/workflows/snake.yml` in this repo with:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: DhruveshOm
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+<!-- dark mode snake (recommended) -->
+![snake dark](https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/github-snake-dark.svg)
 
+<!-- ocean GIF -->
+![ocean](https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/ocean.gif)
 ---
 
 <div align="center">
