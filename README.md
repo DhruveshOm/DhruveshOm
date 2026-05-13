@@ -127,9 +127,8 @@ I'm a **backend-focused full-stack developer** passionate about generative AI an
 
 ## 🐍 Contribution Activity
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
-</div>
+
+<img src="https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 <!-- dark mode snake (recommended) -->
 
 ![snake dark](https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/github-snake-dark.svg)
