@@ -56,7 +56,5 @@ I am a 3rd-year B.Tech Computer Science & Data Science undergraduate with a rele
 
 ### ⚡ GitHub Analytics
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/DhruveshOm?template=classic&base=header,activity,community,repositories,metadata&config_timezone=Asia/Kolkata" alt="Dhruvesh's GitHub Metrics" width="100%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruveshOm&theme=radium&hide_border=true" alt="Dhruvesh's GitHub Streak" width="48%" />
-</div>
+[![Dhruvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhruveshOm&show_icons=true&theme=radium&hide_border=true)](https://github.com/DhruveshOm)
+[![Dhruvesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhruveshOm&theme=radium&hide_border=true)](https://github.com/DhruveshOm)
