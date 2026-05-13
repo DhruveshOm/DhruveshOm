@@ -99,9 +99,6 @@ I'm a **backend-focused full-stack developer** passionate about generative AI an
  
 ---
 
-### 🛒 Scalable Marketplace Clone
-> High-performance OLX-style marketplace with full CRUD, image handling, and real-time data sync
-
 **Stack:** `React` `Firebase` `Tailwind CSS`
 &nbsp;·&nbsp; [▶ Live Demo](#) &nbsp;·&nbsp; [📂 Source Code](#)
 
