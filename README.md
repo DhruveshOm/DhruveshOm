@@ -130,15 +130,9 @@ I'm a **backend-focused full-stack developer** passionate about generative AI an
 <div align="center">
   <img src="https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
 </div>
-<!-- light mode snake -->
-![snake](https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/github-snake.svg)
-
 <!-- dark mode snake (recommended) -->
 ![snake dark](https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/github-snake-dark.svg)
 
-<!-- ocean GIF -->
-![ocean](https://raw.githubusercontent.com/DhruveshOm/DhruveshOm/output/ocean.gif)
----
 
 <div align="center">
 
